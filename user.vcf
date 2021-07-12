@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Oscar;Cordova;;;
-FN: Cordova Oscar 
+N:Alejandro;Salinas;;;
+FN: Salinas Alejandro 
 ORG:Bolide Technology Group;
-TITLE:Southeast Regional Sales Manager
-EMAIL;type=INTERNET;type=WORK;type=pref:Oscar@bolideco.com
-TEL;type=WORK;type=VOICE:562-449-8042
+TITLE:Vice President
+EMAIL;type=INTERNET;type=WORK;type=pref:alejandro@bolideco.com
+TEL;type=WORK;type=VOICE:479-616-0640
 item1.ADR;type=WORK;type=pref:;;468 S. San Dimas Blvd San Dimas CA 91773
 item1.X-ABADR:sg
 item2.URL;type=pref:Bolideco.com
